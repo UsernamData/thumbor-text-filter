@@ -5,6 +5,7 @@ from PIL import ImageDraw
 from PIL import ImageFont
 from thumbor.filters import BaseFilter, filter_method
 
+#Comment from Filatov Roman
 
 class Filter(BaseFilter):
     @filter_method(
